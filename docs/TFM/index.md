@@ -103,6 +103,6 @@ Los resultados son prometedores, pero es necesario explorar esta solución en un
 ## Crédito
 Quiero agraceder el apoyo recibido por mis tutores y compañeros del grupo CAPO, en especial a mis compañeras Laura Llopis Ibor y Susana Pineda de Luelmo.
 
-| [Inicio](../Readme.md) | [Código TFM](https://github.com/AlbaranezJavier/Object-Detection-with-Segmentation) |
+| [Inicio](../index.md) | [Código TFM](https://github.com/AlbaranezJavier/Object-Detection-with-Segmentation) |
 
 
