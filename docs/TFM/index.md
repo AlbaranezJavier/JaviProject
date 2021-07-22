@@ -23,7 +23,7 @@ Tengo otros dos proyectos muy relacionados con el objetivo de este: (i) [un gene
 
 ### Enlaces de interés
 
-| [Memoria](https://github.com/AlbaranezJavier/JaviProject/edit/main/docs/TFM/TFM_JAM.pdf) |
+| [Memoria](https://github.com/AlbaranezJavier/JaviProject/edit/main/docs/TFM/TFM_JAM.pdf) | [Código TFM](https://github.com/AlbaranezJavier/Object-Detection-with-Segmentation) |
 
 ## Estructura del código
 
@@ -103,6 +103,6 @@ Los resultados son prometedores, pero es necesario explorar esta solución en un
 ## Crédito
 Quiero agraceder el apoyo recibido por mis tutores y compañeros del grupo CAPO, en especial a mis compañeras Laura Llopis Ibor y Susana Pineda de Luelmo.
 
-| [Inicio](https://github.com/AlbaranezJavier/JaviProject/blob/main/Readme.md) | [Código TFM](https://github.com/AlbaranezJavier/JaviProject/tree/main/TFM) |
+| [Inicio](../index.md) | [Código TFM](https://github.com/AlbaranezJavier/Object-Detection-with-Segmentation) |
 
 
